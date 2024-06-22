@@ -16,6 +16,6 @@ Tambien soy coctelero, he hecho cursos de programacion anteriormente con el mini
 * Lugar de residencia: Ecuador
 
 ## Proyectos
-* Proyectos para el ambito estudiantil el cual se encuentra en mi perfil, en los diferentes repositorios. [https://github.com/LastDaniels?tab=repositories]
+* Proyectos para el ambito estudiantil el cual se encuentra en mi perfil, en los diferentes repositorios. [https://github.com/LastDaniels?tab=repositories](Link a los repositorios)
 ## Intereses
 * [Lista de tus intereses]
