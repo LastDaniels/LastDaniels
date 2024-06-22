@@ -3,15 +3,19 @@
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
+*[Descripcion personal](#descripcion-personal)
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+## Descripción personal
+Soy un amante de la tecnologia en general, me gusta lo que tiene que ver con videojuegos, inteligencia artificial, realidad aumentada.
+Tambien soy coctelero, he hecho cursos de programacion anteriormente con el ministerio de Colombia, he trabajado optimizando flujos de datos que luego serian analizados por una IA para hacer predicciones.
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Daniel Picon
+* Ocupación: Estudiante de Ingenieria en Computacion
+* Lugar de residencia: Ecuador
+
 ## Proyectos
-* [Lista de tus proyectos]
+* Proyectos para el ambito estudiantil el cual se encuentra en mi perfil, en los diferentes repositorios. [https://github.com/LastDaniels?tab=repositories]
 ## Intereses
 * [Lista de tus intereses]
