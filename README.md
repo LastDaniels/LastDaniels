@@ -3,7 +3,7 @@
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
-*[Descripcion personal](#descripcion-personal)
+*[Descripcion personal](#descripción-personal)
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
@@ -17,5 +17,13 @@ Tambien soy coctelero, he hecho cursos de programacion anteriormente con el mini
 
 ## Proyectos
 * Proyectos para el ambito estudiantil el cual se encuentra en mi perfil, en los diferentes repositorios. [Link a los repositorios](https://github.com/LastDaniels?tab=repositories)
+* Página web desarrollada para el proyecto del ministerio de Colombia. [Proyecto](https://github.com/taceroc/semana-5-153)
 ## Intereses
-* [Lista de tus intereses]
+* Videojuegos.
+* Programacion.
+* Desarrollo movil.
+* Realidad virtual.
+* Inteligencia artificial.
+* Cocteleria.
+* Volleyball de playa.
+* Gimnasio.
