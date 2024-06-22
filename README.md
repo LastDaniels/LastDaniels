@@ -3,7 +3,7 @@
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
-*[Descripcion personal](#descripción-personal)
+* [Descripcion personal](#descripción-personal)
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
